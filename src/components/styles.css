@@ -1,0 +1,12 @@
+.card{
+    border:1px solid ;
+    display: flex;
+}
+
+.card .info{
+    margin-left:20px;
+}
+.card .info .title{
+    font-size: 24px;;
+    font-weight: bold;
+}
